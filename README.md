@@ -1,5 +1,5 @@
 # dataBaseMusicalEvent
-Descrição
+
 Este projeto consiste em um banco de dados que armazena informações sobre fãs, artistas, eventos musicais, locais, ingressos e acompanhamentos. O objetivo é fornecer consultas e operações para gerenciar eventos musicais e a interação entre fãs e artistas.
 
 Funcionalidades
